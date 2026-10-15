@@ -1,0 +1,22 @@
+{
+  "apps": [
+    {
+      "name": "YouTube",
+      "version": "1.0",
+      "description": "Ứng dụng xem video",
+      "apk": "https://gitlab.com/nguyenthiquynhnga1902/app/-/raw/main/youtube_5.30.apk"
+    },
+    {
+      "name": "VTV Go",
+      "version": "1.0",
+      "description": "Ứng dụng xem truyền hình",
+      "apk": "https://your-domain.com/apks/vtvgo.apk"
+    },
+    {
+      "name": "Ứng dụng của tôi",
+      "version": "1.0",
+      "description": "Ứng dụng Android TV",
+      "apk": "https://your-domain.com/apks/myapp.apk"
+    }
+  ]
+}
