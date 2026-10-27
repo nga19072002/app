@@ -3,5 +3,10 @@
     "name": "YouTube TV",
     "description": "Phiên bản YouTube 5.30",
     "apk": "https://gitlab.com/nguyenthiquynhnga1902/app/-/raw/main/youtube_5.30.apk"
+  },
+  {
+    "name": "TPtv_promax",
+    "description": "phiên bản 1.1.9",
+    "apk": "https://gitlab.com/nguyenthiquynhnga1902/app/-/raw/main/tptv_promax.apk"
   }
 ]
