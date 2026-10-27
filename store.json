@@ -8,5 +8,30 @@
     "name": "TPtv_promax",
     "description": "phiên bản 1.1.9",
     "apk": "https://gitlab.com/nguyenthiquynhnga1902/app/-/raw/main/tptv_promax.apk"
+  },
+  {
+    "name": "NVC PHIM",
+    "description": "phiên bản 2.4.4",
+    "apk": "https://gitlab.com/nguyenthiquynhnga1902/app/-/raw/main/NVCPhim.apk"
+  },
+  {
+    "name": "HONG TV",
+    "description": "phiên bản 5.6.2",
+    "apk": "https://github.com/nxhong93/hongtv_apk/releases/download/5.6.2/hongtv.apk"
+  },
+  {
+    "name": "GET OUT",
+    "description": "phiên bản V.I.P",
+    "apk": "https://gitlab.com/nguyenthiquynhnga1902/app/-/raw/main/Get_Out_2.end.apk"
+  },
+  {
+    "name": "Store vxm",
+    "description": "phiên bản 1.2.0",
+    "apk": "https://gitlab.com/nguyenthiquynhnga1902/app/-/raw/main/vxmstore.apk"
+  },
+  {
+    "name": "PHIM 4K",
+    "description": "phiên bản 2.7.1",
+    "apk": "https://gitlab.com/nguyenthiquynhnga1902/app/-/raw/main/phim4k2.6.8.apk"
   }
 ]
